@@ -16,23 +16,23 @@ GitHub профиль: https://github.com/S-Kozachuk
 Портфолио: https://kozachuk-dev.ru
 
 ### ПРОЕКТЫ
-#### Лендинг сервиса "Юнит"  – Учебная работа  
+***Лендинг сервиса "Юнит"  – Учебная работа***  
 Адаптивная верстка, mobile-first подход, SCSS, Java Script, форма обратной связи. Pixel Perfect.  
 Демо: https://kozachuk-dev.ru/project-unit.html  
 GitHub репозиторий: https://github.com/S-Kozachuk/unit
 
 
-***Сайт туристической компании "Форест Трэвел"  – Учебная работа***
+***Сайт туристической компании "Форест Трэвел"  – Учебная работа***  
 Многостраничный сайт туристической компании. Сверстана форма выбора и обратной связи. Pixel Perfect.  Количество страниц: 4  
 Демо: https://kozachuk-dev.ru/project-forest-trevel.html  
 GitHub репозиторий: https://github.com/S-Kozachuk/forest-travel
 
-***Карточка товара "Книга"  – Учебная работа***
+***Карточка товара "Книга"  – Учебная работа***  
 Верстка карточки товара "Книга" для интернет-магазина. Pixel Perfect.  
 Демо: https://kozachuk-dev.ru/project-book.html   
 GitHub репозиторий: https://github.com/S-Kozachuk/book
 
-#### Карточка товара "Мотоцикл"  – Учебная работа
+***Карточка товара "Мотоцикл"  – Учебная работа***   
 Верстка карточки товара "Мотоцикл" для интернет-магазина. Pixel Perfect.  
 Демо: https://kozachuk-dev.ru/project-motocycle.html      
 GitHub репозиторий: https://github.com/S-Kozachuk/motocycle
