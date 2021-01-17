@@ -22,12 +22,12 @@ GitHub профиль: https://github.com/S-Kozachuk
 GitHub репозиторий: https://github.com/S-Kozachuk/unit
 
 
-#### Сайт туристической компании "Форест Трэвел"  – Учебная работа  
+***Сайт туристической компании "Форест Трэвел"  – Учебная работа***
 Многостраничный сайт туристической компании. Сверстана форма выбора и обратной связи. Pixel Perfect.  Количество страниц: 4  
 Демо: https://kozachuk-dev.ru/project-forest-trevel.html  
 GitHub репозиторий: https://github.com/S-Kozachuk/forest-travel
 
-#### Карточка товара "Книга"  – Учебная работа
+***Карточка товара "Книга"  – Учебная работа***
 Верстка карточки товара "Книга" для интернет-магазина. Pixel Perfect.  
 Демо: https://kozachuk-dev.ru/project-book.html   
 GitHub репозиторий: https://github.com/S-Kozachuk/book
