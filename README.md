@@ -17,27 +17,24 @@ GitHub профиль: https://github.com/S-Kozachuk
 
 ### ПРОЕКТЫ
 #### Лендинг сервиса "Юнит"  – Учебная работа  
-Адаптивная верстка, mobile-first подход, SCSS, Java Script, форма обратной связи. Pixel Perfect.
-
+Адаптивная верстка, mobile-first подход, SCSS, Java Script, форма обратной связи. Pixel Perfect.  
 Демо: https://kozachuk-dev.ru/project-unit.html  
-GitHub репозиторий: https://github.com/S-Kozachuk/unit 
+GitHub репозиторий: https://github.com/S-Kozachuk/unit
+
 
 #### Сайт туристической компании "Форест Трэвел"  – Учебная работа  
-Многостраничный сайт туристической компании. Сверстана форма выбора и обратной связи. Pixel Perfect.  Количество страниц: 4
-
-Демо: https://kozachuk-dev.ru/project-forest-trevel.html   
+Многостраничный сайт туристической компании. Сверстана форма выбора и обратной связи. Pixel Perfect.  Количество страниц: 4  
+Демо: https://kozachuk-dev.ru/project-forest-trevel.html  
 GitHub репозиторий: https://github.com/S-Kozachuk/forest-travel
 
 #### Карточка товара "Книга"  – Учебная работа
-Верстка карточки товара "Книга" для интернет-магазина. Pixel Perfect.
-
+Верстка карточки товара "Книга" для интернет-магазина. Pixel Perfect.  
 Демо: https://kozachuk-dev.ru/project-book.html   
 GitHub репозиторий: https://github.com/S-Kozachuk/book
 
 #### Карточка товара "Мотоцикл"  – Учебная работа
-Верстка карточки товара "Мотоцикл" для интернет-магазина. Pixel Perfect.
-
-Демо: https://kozachuk-dev.ru/project-motocycle.html    
+Верстка карточки товара "Мотоцикл" для интернет-магазина. Pixel Perfect.  
+Демо: https://kozachuk-dev.ru/project-motocycle.html      
 GitHub репозиторий: https://github.com/S-Kozachuk/motocycle
 
 ### ОПЫТ РАБОТЫ
@@ -50,9 +47,9 @@ GitHub репозиторий: https://github.com/S-Kozachuk/motocycle
     • Изготовление и обработка заготовок из оптического стекла и кристаллов;
     
 ### ПОВЫШЕНИЕ КВАЛИФИКАЦИИ
-***Курс по HTML, CSS верстке сайтов, WebCademy.ru***
-СЕНТЯБРЬ 2020 - ОКТЯБРЬ 2020
-Двухмесячный онлайн курс. Изученные технологии: HTML, CSS, адаптивная верстка, Pixel Perfect, Bootstrap, основы JS, jQuery, PHP.
+***Курс по HTML, CSS верстке сайтов, WebCademy.ru***  
+СЕНТЯБРЬ 2020 - ОКТЯБРЬ 2020  
+Двухмесячный онлайн курс. Изученные технологии: HTML, CSS, адаптивная верстка, Pixel Perfect, Bootstrap, основы JS, jQuery, PHP.  
 Дипломный проект: https://s-kozachuk.github.io/portfolio
 
 ### ОБРАЗОВАНИЕ
