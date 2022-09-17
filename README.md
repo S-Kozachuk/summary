@@ -71,18 +71,6 @@ GitHub репозиторий: https://github.com/S-Kozachuk/bakery
 Демо: https://s-kozachuk.github.io/mamon  
 GitHub репозиторий: https://github.com/S-Kozachuk/mamon
 
-  
-***Лендинг сервиса "Юнит"  – Учебная работа***  
-Адаптивная верстка, mobile-first подход, SCSS, Java Script, форма обратной связи. Pixel Perfect.  
-Демо: https://kozachuk-dev.ru/project-unit.html  
-GitHub репозиторий: https://github.com/S-Kozachuk/unit
-
-  
-***Сайт туристической компании "Форест Трэвел"  – Учебная работа***  
-Многостраничный сайт туристической компании. Сверстана форма выбора и обратной связи. Pixel Perfect.  Количество страниц: 4  
-Демо: https://kozachuk-dev.ru/project-forest-trevel.html  
-GitHub репозиторий: https://github.com/S-Kozachuk/forest-travel
-
 
 ### ОПЫТ РАБОТЫ
 ***ООО “Тидекс”***, Санкт-Петербург – Оптик 5-ого разряда  
