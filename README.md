@@ -3,21 +3,35 @@
 +7 (952) 375-73-20  
 kozachuk-dev@yandex.ru
 
-Цель: Получение должности верстальщик HTML/CSS. 
+Цель: Получение должности Junior Frontend-разработчик. 
 
 ПРОФЕССИОНАЛЬНЫЕ НАВЫКИ
 
-    • Знание HTML5‚ CSS3, верстка сайтов;
-    • Блочная, кроссбраузерная, адаптивная верстка для мобильных устройств, семантика кода, валидность, CSS препроцессоры LESS, Sass(SCSS);
+    • Знание HTML5‚ CSS3, JavaScript;
+    • Блочная, кроссбраузерная, адаптивная верстка для мобильных устройств, семантика кода, валидность, CSS препроцессоры LESS, SASS(SCSS);
     • Работа со сборщиком Prepros;
     • Работа с Photoshop на уровне макета; 
     • Работа с Avocode, Figma; 
-    • Базовые знания Javascript, jQuery, Ajax, PHP. 
+    • Базовые знания jQuery, Ajax, PHP. 
+
 GitHub профиль: https://github.com/S-Kozachuk  
-Портфолио: https://s-kozachuk.github.io/portfolio
 
   
 ### ПРОЕКТЫ
+***Одностраничный сайт "PC Assembley" – Pet-проект***
+Сайт создан на основе макета (Figma,1920p) из урока школы GloAcademy. Валидация формы - JQuery Validate.
+
+Технологии: HTML, CSS, SASS, JS, PHP
+
+Особенности:
+    • Адаптивная вёрстка (смартфоны, планшеты, настольные ПК) от 320p. Mobile First.
+    • Pixel Perfect (1920p)
+    • Модальное окно (pop-up) на чистом JS
+    • Форма обратной связи с PHP-обработчиком (тест на Open Server)
+
+Демо: https://s-kozachuk.github.io/pc-assembly
+GitHub репозиторий: https://github.com/S-Kozachuk/pc-assembly
+
 ***Посадочная страница пекарни "Bakery" – Pet-проект***  
 Проект "Bakery"
 Первый опыт полностью самостоятельной вёрстки из PSD - макета (десктоп). Свёрстана главная страница сайта булочной (bakery). 
