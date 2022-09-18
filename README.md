@@ -10,7 +10,7 @@ kozachuk-dev@yandex.ru
     • Знание HTML5‚ CSS3, JavaScript;
     • Блочная, кроссбраузерная, адаптивная верстка для мобильных устройств, семантика кода, валидность, CSS препроцессоры LESS, SASS(SCSS);
     • Работа со сборщиком Prepros;
-    • Работа с Photoshop на уровне макета; 
+    • Работа с Photoshop на уровне нарезки макета. Работа со слоями; 
     • Работа с Avocode, Figma; 
     • Базовые знания jQuery, Ajax, PHP. 
 
@@ -28,9 +28,13 @@ GitHub профиль: https://github.com/S-Kozachuk
     • Pixel Perfect (1920p)
     • Модальное окно (pop-up) на чистом JS
     • Форма обратной связи с PHP-обработчиком (тест на Open Server)
+	• Подключен и настроен плагин валидации формы обратной связи
+	• Использовано регулярные выражение для валидации поля email
+	• Контроль и очистка полей формы на JS
 
 Демо: https://s-kozachuk.github.io/pc-assembly
 GitHub репозиторий: https://github.com/S-Kozachuk/pc-assembly
+
 
 ***Посадочная страница пекарни "Bakery" – Pet-проект***  
 Проект "Bakery"
@@ -51,7 +55,7 @@ GitHub репозиторий: https://github.com/S-Kozachuk/pc-assembly
 GitHub репозиторий: https://github.com/S-Kozachuk/bakery
 
   
-***Лендинг аутсорс-команды “Mamon"  –  Pet-проект***  
+***Лендинг аутсорс-команды “Mamon" – Pet-проект***  
 Одностраничный сайт (landing page) агенства по разработке веб и мобильных приложений. Учебная работа. 
 Свёрстан по уроку Анны Блок на основе PSD - макета (десктоп).
 
