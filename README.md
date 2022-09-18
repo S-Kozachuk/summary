@@ -43,16 +43,16 @@ GitHub репозиторий: https://github.com/S-Kozachuk/pc-assembly
 
 Технологии: HTML, CSS, LESS, JS
 
-Особенности:
-Адаптивная вёрстка (смартфоны, планшеты, настольные ПК) на сетке (grid)
-   • Mobile First
-   • Pixel Perfect
-   • SVG-графика
-   • Подключен и настроен слайдер Owl Carousel
-   • Все шрифты подключены локально
+Особенности:  
+Адаптивная вёрстка (смартфоны, планшеты, настольные ПК) на сетке (grid)  
+   • Mobile First  
+   • Pixel Perfect  
+   • SVG-графика  
+   • Подключен и настроен слайдер Owl Carousel  
+   • Все шрифты подключены локально  
   
-Демо: https://s-kozachuk.github.io/bakery   
-GitHub репозиторий: https://github.com/S-Kozachuk/bakery
+Демо: https://s-kozachuk.github.io/bakery     
+GitHub репозиторий: https://github.com/S-Kozachuk/bakery    
 
   
 ***Лендинг аутсорс-команды “Mamon" – Pet-проект***  
