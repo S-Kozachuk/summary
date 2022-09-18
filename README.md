@@ -34,7 +34,7 @@ GitHub профиль: https://github.com/S-Kozachuk
 
 Демо: https://s-kozachuk.github.io/pc-assembly  
 GitHub репозиторий: https://github.com/S-Kozachuk/pc-assembly
-
+  
 
 ***Посадочная страница пекарни "Bakery" – Pet-проект***  
 Проект "Bakery"
