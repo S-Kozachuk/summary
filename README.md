@@ -51,7 +51,7 @@ GitHub репозиторий: https://github.com/S-Kozachuk/pc-assembly
    • Подключен и настроен слайдер Owl Carousel
    • Все шрифты подключены локально
   
-Демо: https://s-kozachuk.github.io/bakery  
+Демо: https://s-kozachuk.github.io/bakery 
 GitHub репозиторий: https://github.com/S-Kozachuk/bakery
 
   
@@ -72,7 +72,7 @@ GitHub репозиторий: https://github.com/S-Kozachuk/bakery
    • Форма обратной связи (тестировать на полноценном хостинге с поддержкой PHP)
    • Подключен и настроен слайдер Owl Carousel
 
-Демо: https://s-kozachuk.github.io/mamon  
+Демо: https://s-kozachuk.github.io/mamon 
 GitHub репозиторий: https://github.com/S-Kozachuk/mamon
 
 
